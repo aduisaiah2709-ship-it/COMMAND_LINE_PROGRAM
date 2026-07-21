@@ -41,7 +41,7 @@ Duct tape.";
     }
 
     #[test]
-    fn case_insensitivee() {
+    fn case_insensitive() {
         let query = "rUst";
         let contents = "\
 Rust:
